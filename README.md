@@ -49,16 +49,6 @@ Clone the repo and go to 'dist' directory
 git clone https://github.com/priagungs/weather-forecast-java-swing.git
 cd weather-forecast-java-swing
 ```
-Open NetBeans IDE, open project by selecting `weather-forecast-java-swing` folder and press `Shift + F11` to compile the project.
-Back to terminal, go to dist folder and run the app by inserting this command
-```
-cd dist
-java -jar weather-forecast.jar
-```
+And launch this in your favorite IDE
 
-# Screenshot
-![alt text](screenshot/Screenshot_1.jpg)
-![alt text](screenshot/Screenshot_2.jpg)
-![alt text](screenshot/Screenshot_3.jpg)
-![alt text](screenshot/Screenshot_4.jpg)
 
